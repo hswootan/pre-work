@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/gallery/NMU9lnF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Link to .gif
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/NMU9lnF"  ><a href="//imgur.com/a/NMU9lnF">prework-codepath</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## Notes
 
