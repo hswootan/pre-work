@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+![prework-codepath](https://user-images.githubusercontent.com/66286651/126542662-0b00f763-2313-43c8-a5ed-bb760337ddbc.gif)
+
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/gallery/NMU9lnF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
