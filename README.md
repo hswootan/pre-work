@@ -1,6 +1,6 @@
 # Pre-work*
 
-**Tip Calculator** is a tip calculator application for iOS.
+**Tip Tip** is a tip calculator application for iOS.
 
 Submitted by: **Hong Woo Tan**
 
